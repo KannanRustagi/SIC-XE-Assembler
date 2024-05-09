@@ -42,6 +42,4 @@ The PASS1(being done in main function only) reads the input record file and stor
 
 Proper comments have been added in the code which explains how each function is working.
 
-===============================================================================================================================
-
 Sample output files for both the assembler and loader, for the give input file has also been included the submission zip for reference
